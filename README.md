@@ -51,7 +51,7 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  ![Prince's GitHub stats](https://github-readme-stats.vercel.app/api?username=princesinghr1)](https://github.com/princesinghr1/github-readme-stats)
+  ![Prince's GitHub stats](https://github-readme-stats.vercel.app/api?username=princesinghr1)]
 
 </details>
 
