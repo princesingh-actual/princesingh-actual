@@ -36,7 +36,6 @@
 <br/>
 <br/>
 
-<img align="left" alt="Terminal"  src="https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js">
 <img align="left" alt="Terminal"  src="https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python">
 <img align="left" alt="Terminal"  src="https://img.shields.io/badge/-java-black?style=flat-square&logo=java">
 <img align="left" alt="Terminal"  src="https://img.shields.io/badge/-C++-black?style=flat-square&logo=c">
