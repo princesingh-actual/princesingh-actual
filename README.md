@@ -34,14 +34,14 @@
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 <br />
 <br>
-<img align="left" alt="Terminal" width="26px" src="https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js"/>
-<img align="left" alt="Terminal" width="26px" src="https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python"/>
-<img align="left" alt="Terminal" width="26px" src="https://img.shields.io/badge/-java-black?style=flat-square&logo=java">
-![C++](https://img.shields.io/badge/-C++-black?style=flat-square&logo=c)
-![PHP](https://img.shields.io/badge/-PHP-black?style=flat-square&logo=php)
-![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
-![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
+<img align="left" alt="Terminal"  src="https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js"/>
+<img align="left" alt="Terminal"  src="https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python"/>
+<img align="left" alt="Terminal"  src="https://img.shields.io/badge/-java-black?style=flat-square&logo=java">
+<img align="left" alt="Terminal"  src="https://img.shields.io/badge/-C++-black?style=flat-square&logo=c">
+<img align="left" alt="Terminal"  src="https://img.shields.io/badge/-PHP-black?style=flat-square&logo=php">
+<img align="left" alt="Terminal"  src="https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5&logoColor=white">
+<img align="left" alt="Terminal"  src="https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3">
+<img align="left" alt="Terminal"  src="https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker">
 
 <br />
 <br />
