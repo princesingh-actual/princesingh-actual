@@ -32,14 +32,14 @@
 [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][webdevplaylist]
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][webdevplaylist]
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][webdevplaylist]
-[Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
-[Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
-[Java](https://img.shields.io/badge/-java-black?style=flat-square&logo=java)
-[C++](https://img.shields.io/badge/-C++-black?style=flat-square&logo=c)
-[PHP](https://img.shields.io/badge/-PHP-black?style=flat-square&logo=php)
-[HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5&logoColor=white)
-[CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
-[Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
+![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
+![Java](https://img.shields.io/badge/-java-black?style=flat-square&logo=java)
+![C++](https://img.shields.io/badge/-C++-black?style=flat-square&logo=c)
+![PHP](https://img.shields.io/badge/-PHP-black?style=flat-square&logo=php)
+![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
+![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
 
 <br />
 <br />
