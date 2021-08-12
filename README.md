@@ -4,7 +4,7 @@
 
 ## Currently an Undergrad Student!!
 
-- 🔭 I am Currently on a ISL translation Project!
+- 🔭 I am Currently on a ISL translation Project!!
 - 💬 Talk to me about philosophy, history and coding
 - 😄 Pronouns: He/His/Him
 - 🌱 I’m currently learning everything 🤣
