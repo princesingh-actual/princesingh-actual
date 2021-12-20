@@ -7,7 +7,7 @@
 - 💬 Talk to me about philosophy, history and coding
 - 😄 Pronouns: He/His/Him
 - 🌱 I’m currently learning everything 🤣
-- 🥅 2021 Goals: Contribute more to Open Source projects
+- 🥅 2022 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I prefer Python
 
 
