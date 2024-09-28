@@ -10,7 +10,7 @@
 - ⚡ Fun fact: I dont know what I'm doing
 
 ### Work Experince 
-Clumio - https://github.com/prince-clumio
+Clumio(01/2022 - 09/2024) - https://github.com/prince-clumio
 
 
 
