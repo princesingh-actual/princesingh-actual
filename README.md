@@ -56,5 +56,5 @@ Clumio(01/2022 - 09/2024) - https://github.com/prince-clumio
 
 </details>
 
-[linkedin]: https://www.linkedin.com/in/prince-singh-2749a5172/
+[linkedin]: https://www.linkedin.com/in/princeactual/
 [hackerrank]: https://www.hackerrank.com/_Prince_Singh
