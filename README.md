@@ -2,7 +2,7 @@
 
 
 
-## Currently an Undergrad Student!!
+## Currently Working as Senior Engineer at Commvault!!
 
 - 💬 Talk to me about philosophy, history and coding
 - 😄 Pronouns: He/His/Him
