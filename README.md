@@ -9,6 +9,9 @@
 - 🌱 I’m currently learning everything 🤣
 - ⚡ Fun fact: I dont know what I'm doing
 
+### Work Experince 
+Clumio - https://github.com/prince-clumio
+
 
 
 ### Connect with me:
